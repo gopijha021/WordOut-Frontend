@@ -5,10 +5,6 @@ participated in contributing to WordOut
 
 Add your name in this file in the following format-
 
-  Name: Participant Name
-  Github_id: GitHub User ID
+  Name: GOPI KUMAR JHA
+  Github_id: gopijha021
 
-An example is provided for your reference.
-
-Name: Aashray Mahajan
-Github_id: aashray374
